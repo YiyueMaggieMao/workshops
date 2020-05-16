@@ -1,0 +1,48 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ffe6f3;
+  color: #999999;
+}
+
+h1{
+  color: #ff66b5;
+  font-size: 36px;
+}
+
+div{
+  padding: 20px 100px 20px 100px;
+}
+
+.title{
+  text-align: center;
+}
+
+.top{ 
+  background-color: rgba(255,255,255,0.5);
+}
+
+.inner{
+    padding: 0px;
+    text-align: center;
+}
+
+img{
+    margin: 0px 20px 0px 20px;
+    border-radius: 10px;
+}
+
+h2{
+  color: #ff99ce;
+}
+
+ol{
+  padding-left: 15px;
+}
+
+a{
+  color: #ff99ce;
+}
+
+a:hover{
+    color: #d966ff;
+}
