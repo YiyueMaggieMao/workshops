@@ -1,12 +1,21 @@
 body{
   font-family: 'Montserrat', sans-serif;
-  background-color: #ffe6f3;
+  background: #ee9ca7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #999999;
 }
 
 h1{
   color: #ff66b5;
   font-size: 36px;
+  animation: blinkingText 2s infinite;
+}
+
+@keyframes blinkingText{
+    0%{color: #ff66b5}
+    50%{color: #ffcc00}
+    100%{color: #ff66b5}
 }
 
 div{
@@ -19,6 +28,10 @@ div{
 
 .top{ 
   background-color: rgba(255,255,255,0.5);
+}
+
+.bottom{
+  background-color: rgba(255, 230, 243, 0.5);
 }
 
 .inner{
