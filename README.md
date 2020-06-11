@@ -4,7 +4,7 @@
 <ul>
     <li>
         <a href="https://github.com/YiyueMaggieMao/workshops/tree/master/boy-scout-merit-badge-2020">
-            Boy Scout Merit Badge Fair 2020 - Scratch & Python
+            Boy Scout Merit Badge Fair 2020 - Scratch, Python & Java
         </a>
     </li>
     <li>
