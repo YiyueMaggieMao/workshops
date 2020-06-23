@@ -21,11 +21,11 @@
     </li>
     <li>
         Click
-        <a href="https://repl.it/@SimonFong/IEEE-UCSD-STEM-Temperature-Converter-Python-TODO"> here </a> to view the source code
+        <a href="https://repl.it/@SimonFong/IEEE-UCSD-STEM-Temperature-Converter-Python-TODO"> here </a> to view the starter code
     </li>
     <li>
         Click
-        <a href="https://repl.it/@SimonFong/IEEE-UCSD-STEM-Temperature-Converter-Python-DONE"> here </a> to view, run, or modify the code
+        <a href="https://repl.it/@SimonFong/IEEE-UCSD-STEM-Temperature-Converter-Python-DONE"> here </a> to view, run, or modify the solution code
     </li>
 </ul>
 
