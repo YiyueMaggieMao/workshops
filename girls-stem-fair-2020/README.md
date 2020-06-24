@@ -11,7 +11,7 @@
 <h3>How to edit / view code</h3>
 <ul>
     <li>Copy and paste code into an <a href="https://repl.it/">online editor</a> and edit OR</li>
-    <li>Open the downloaded folder using a <a href="https://code.visualstudio.com/">code editor OR</a></li>
+    <li>Open the downloaded folder using a <a href="https://code.visualstudio.com/">code editor</a> OR</li>
     <li>Right click downloaded file and select "Edit" (NOT RECOMMENDED) </li>
 </ul>
 
